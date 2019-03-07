@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New title"
+title:  "Welcome to Jekyll!"
 date:   2019-03-07 11:22:48 -0300
 categories: jekyll cat2
 author: "Lucas"
